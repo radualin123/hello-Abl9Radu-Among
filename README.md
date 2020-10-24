@@ -1,4 +1,4 @@
-# hello-Abl9Radu-Amoung
+# hello-Abl9Radu-Among
 This character was created only from HTML and CSS ... WITHOUT JAVASCRIPT.
 What do we need.
 Step 1. We need LINUX
